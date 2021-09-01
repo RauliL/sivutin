@@ -1,5 +1,13 @@
 # sivutin
 
+[![coveralls][coveralls-image]][coveralls-url]
+[![npm][npm-image]][npm-url]
+
+[coveralls-image]: https://coveralls.io/repos/github/RauliL/sivutin/badge.svg
+[coveralls-url]: https://coveralls.io/github/RauliL/sivutin
+[npm-image]: https://img.shields.io/npm/v/sivutin.svg
+[npm-url]: https://npmjs.org/package/sivutin
+
 Very simple paginator.
 
 ## Installation
