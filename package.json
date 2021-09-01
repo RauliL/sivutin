@@ -2,7 +2,9 @@
   "name": "sivutin",
   "version": "1.0.0",
   "description": "Simple paginator",
-  "keywords": ["pagination"],
+  "keywords": [
+    "pagination"
+  ],
   "main": "./dist/index.js",
   "main:src": "./src/index.ts",
   "types": "./dist/index.d.ts",
@@ -23,6 +25,7 @@
   "jest": {
     "collectCoverage": true,
     "coverageReporters": [
+      "lcov",
       "text",
       "text-summary"
     ],
